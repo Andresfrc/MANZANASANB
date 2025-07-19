@@ -3,3 +3,8 @@
 EN CARPETA /FRONTEND/ ABRIR TERMINAL Y ESCRIBIR: "npm install" luego "npm start" .
 EN CARPETA /BACKEND/ ABRIR TERMINAL Y ESCRIBIR: "npm install" luego "npm run prueba" .
 
+
+*EN CASO QUE NO ENCUENTRE LA RUTA DE LOS ARCHIVOS ESCRIBIR*:
+
+"cd frontend" y  "cd backend"
+
